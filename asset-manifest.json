@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-glqree/static/css/main.53fd626f.chunk.css",
+    "main.js": "https://.github.io/csb-glqree/static/js/main.7ee62b45.chunk.js",
+    "main.js.map": "https://.github.io/csb-glqree/static/js/main.7ee62b45.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-glqree/static/js/runtime-main.6edad374.js",
+    "runtime-main.js.map": "https://.github.io/csb-glqree/static/js/runtime-main.6edad374.js.map",
+    "static/css/2.d0306022.chunk.css": "https://.github.io/csb-glqree/static/css/2.d0306022.chunk.css",
+    "static/js/2.d8b1adc3.chunk.js": "https://.github.io/csb-glqree/static/js/2.d8b1adc3.chunk.js",
+    "static/js/2.d8b1adc3.chunk.js.map": "https://.github.io/csb-glqree/static/js/2.d8b1adc3.chunk.js.map",
+    "static/js/3.1362d201.chunk.js": "https://.github.io/csb-glqree/static/js/3.1362d201.chunk.js",
+    "static/js/3.1362d201.chunk.js.map": "https://.github.io/csb-glqree/static/js/3.1362d201.chunk.js.map",
+    "index.html": "https://.github.io/csb-glqree/index.html",
+    "static/css/2.d0306022.chunk.css.map": "https://.github.io/csb-glqree/static/css/2.d0306022.chunk.css.map",
+    "static/css/main.53fd626f.chunk.css.map": "https://.github.io/csb-glqree/static/css/main.53fd626f.chunk.css.map",
+    "static/js/2.d8b1adc3.chunk.js.LICENSE.txt": "https://.github.io/csb-glqree/static/js/2.d8b1adc3.chunk.js.LICENSE.txt",
+    "static/media/abiy-ahmed.31334064.jpg": "https://.github.io/csb-glqree/static/media/abiy-ahmed.31334064.jpg",
+    "static/media/bbc.9a91fab9.webp": "https://.github.io/csb-glqree/static/media/bbc.9a91fab9.webp",
+    "static/media/cnn.4943ce25.jpg": "https://.github.io/csb-glqree/static/media/cnn.4943ce25.jpg",
+    "static/media/fana-media.121cb413.jpg": "https://.github.io/csb-glqree/static/media/fana-media.121cb413.jpg",
+    "static/media/fana.3af9aa7d.jpg": "https://.github.io/csb-glqree/static/media/fana.3af9aa7d.jpg",
+    "static/media/fb-groups-or-pages.c9818aa9.jpg": "https://.github.io/csb-glqree/static/media/fb-groups-or-pages.c9818aa9.jpg",
+    "static/media/fb-user.6573bd8a.jpg": "https://.github.io/csb-glqree/static/media/fb-user.6573bd8a.jpg",
+    "static/media/font-awesome.min.css": "https://.github.io/csb-glqree/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/insta-logo.47d32111.png": "https://.github.io/csb-glqree/static/media/insta-logo.47d32111.png",
+    "static/media/logo.dbb80267.jpg": "https://.github.io/csb-glqree/static/media/logo.dbb80267.jpg",
+    "static/media/telegram-logo.8c30a45a.png": "https://.github.io/csb-glqree/static/media/telegram-logo.8c30a45a.png",
+    "static/media/telegramChannel.00a15e26.jpg": "https://.github.io/csb-glqree/static/media/telegramChannel.00a15e26.jpg",
+    "static/media/telegramGroup.4932e87f.png": "https://.github.io/csb-glqree/static/media/telegramGroup.4932e87f.png",
+    "static/media/twitter-logo.82cf14ae.png": "https://.github.io/csb-glqree/static/media/twitter-logo.82cf14ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6edad374.js",
+    "static/css/2.d0306022.chunk.css",
+    "static/js/2.d8b1adc3.chunk.js",
+    "static/css/main.53fd626f.chunk.css",
+    "static/js/main.7ee62b45.chunk.js"
+  ]
+}
