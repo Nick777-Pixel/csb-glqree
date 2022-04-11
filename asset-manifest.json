@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "https://nick777-pixel.github.io/csb-glqree/static/css/main.53fd626f.chunk.css",
-    "main.js": "https://nick777-pixel.github.io/csb-glqree/static/js/main.1d4c2d81.chunk.js",
-    "main.js.map": "https://nick777-pixel.github.io/csb-glqree/static/js/main.1d4c2d81.chunk.js.map",
+    "main.js": "https://nick777-pixel.github.io/csb-glqree/static/js/main.7637d544.chunk.js",
+    "main.js.map": "https://nick777-pixel.github.io/csb-glqree/static/js/main.7637d544.chunk.js.map",
     "runtime-main.js": "https://nick777-pixel.github.io/csb-glqree/static/js/runtime-main.e3bc7e0e.js",
     "runtime-main.js.map": "https://nick777-pixel.github.io/csb-glqree/static/js/runtime-main.e3bc7e0e.js.map",
     "static/css/2.e4983f99.chunk.css": "https://nick777-pixel.github.io/csb-glqree/static/css/2.e4983f99.chunk.css",
-    "static/js/2.ffda58f0.chunk.js": "https://nick777-pixel.github.io/csb-glqree/static/js/2.ffda58f0.chunk.js",
-    "static/js/2.ffda58f0.chunk.js.map": "https://nick777-pixel.github.io/csb-glqree/static/js/2.ffda58f0.chunk.js.map",
+    "static/js/2.27ff2673.chunk.js": "https://nick777-pixel.github.io/csb-glqree/static/js/2.27ff2673.chunk.js",
+    "static/js/2.27ff2673.chunk.js.map": "https://nick777-pixel.github.io/csb-glqree/static/js/2.27ff2673.chunk.js.map",
     "static/js/3.1362d201.chunk.js": "https://nick777-pixel.github.io/csb-glqree/static/js/3.1362d201.chunk.js",
     "static/js/3.1362d201.chunk.js.map": "https://nick777-pixel.github.io/csb-glqree/static/js/3.1362d201.chunk.js.map",
     "index.html": "https://nick777-pixel.github.io/csb-glqree/index.html",
     "static/css/2.e4983f99.chunk.css.map": "https://nick777-pixel.github.io/csb-glqree/static/css/2.e4983f99.chunk.css.map",
     "static/css/main.53fd626f.chunk.css.map": "https://nick777-pixel.github.io/csb-glqree/static/css/main.53fd626f.chunk.css.map",
-    "static/js/2.ffda58f0.chunk.js.LICENSE.txt": "https://nick777-pixel.github.io/csb-glqree/static/js/2.ffda58f0.chunk.js.LICENSE.txt",
+    "static/js/2.27ff2673.chunk.js.LICENSE.txt": "https://nick777-pixel.github.io/csb-glqree/static/js/2.27ff2673.chunk.js.LICENSE.txt",
     "static/media/abiy-ahmed.31334064.jpg": "https://nick777-pixel.github.io/csb-glqree/static/media/abiy-ahmed.31334064.jpg",
     "static/media/bbc.9a91fab9.webp": "https://nick777-pixel.github.io/csb-glqree/static/media/bbc.9a91fab9.webp",
     "static/media/cnn.4943ce25.jpg": "https://nick777-pixel.github.io/csb-glqree/static/media/cnn.4943ce25.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.e3bc7e0e.js",
     "static/css/2.e4983f99.chunk.css",
-    "static/js/2.ffda58f0.chunk.js",
+    "static/js/2.27ff2673.chunk.js",
     "static/css/main.53fd626f.chunk.css",
-    "static/js/main.1d4c2d81.chunk.js"
+    "static/js/main.7637d544.chunk.js"
   ]
 }
